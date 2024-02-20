@@ -1,8 +1,8 @@
 {
     "folder_path": null,
-    "max_images": null,
+    "max_images": 60,
     "output_resolution": 1080,
-    "image_duration": 0.3,
+    "image_duration": 0.01,
     "fps": 24,
-    "output_file": "output_video.mp4"
+    "output_file": "output.mp4"
 }
